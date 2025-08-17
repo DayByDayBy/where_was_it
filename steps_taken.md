@@ -1,0 +1,1 @@
+- Step 1: Initialized Expo React Native project using pnpm.
