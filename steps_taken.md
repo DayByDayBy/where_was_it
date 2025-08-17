@@ -1,1 +1,1 @@
-- Step 1: Initialized Expo React Native project using pnpm.
+- Creating GEMINI_RECOVERY.md for state recovery.
